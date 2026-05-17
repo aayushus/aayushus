@@ -11,7 +11,7 @@
 ![LinkedIn followers](https://img.shields.io/badge/LinkedIn%20followers-3.4k-lightgrey?logo=linkedin)
 ![LinkedIn profile views](https://img.shields.io/badge/Profile%20Views-928-orange)
 ![LinkedIn search appearances](https://img.shields.io/badge/Search%20Appearances-79-purple)
-![Website](https://img.shields.io/badge/website-mercpl.us-lightgrey?style=flat&logo=firefox)
+[![Website](https://img.shields.io/badge/website-mercpl.us-lightgrey?style=flat&logo=firefox)](https://mercpl.us)
 ![GitHub repos](https://img.shields.io/github/repo-size/aayushus/aayushus?logo=github)
 
 ---
