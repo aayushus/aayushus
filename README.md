@@ -4,13 +4,13 @@
 
 **AI Advisor &nbsp;·&nbsp; Field CTO &nbsp;·&nbsp; Enterprise GenAI & Agentic AI Architect**
 
-📍 Orlando, FL &nbsp; | &nbsp; 📧 aayush@mercpl.us &nbsp; | &nbsp; 🌐 [mercpl.us](https://mercpl.us)
+📍 Orlando, FL &nbsp; | &nbsp; 📧 aayush@mercpl.us &nbsp; | &nbsp; 🌐 <a href="https://mercpl.us" target="_blank">mercpl.us</a>
 
-[![LinkedIn connections](https://img.shields.io/badge/LinkedIn%20connections-500%2B-blue?logo=linkedin)](https://www.linkedin.com/in/aayushmediratta)
-[![LinkedIn followers](https://img.shields.io/badge/LinkedIn%20followers-3.4k-lightgrey?logo=linkedin)](https://www.linkedin.com/in/aayushmediratta)
-![LinkedIn profile views](https://img.shields.io/badge/Profile%20Views-928-orange)
-![LinkedIn search appearances](https://img.shields.io/badge/Search%20Appearances-79-purple)
-[![Website](https://img.shields.io/badge/Portfolio-mercpl.us-000?style=flat&logo=googlechrome&logoColor=white)](https://mercpl.us)
+<a href="https://www.linkedin.com/in/aayushmediratta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn%20connections-500%2B-blue?logo=linkedin" alt="LinkedIn connections"></a>
+<a href="https://www.linkedin.com/in/aayushmediratta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn%20followers-3.4k-lightgrey?logo=linkedin" alt="LinkedIn followers"></a>
+<img src="https://img.shields.io/badge/Profile%20Views-928-orange" alt="LinkedIn profile views">
+<img src="https://img.shields.io/badge/Search%20Appearances-79-purple" alt="LinkedIn search appearances">
+<a href="https://mercpl.us" target="_blank"><img src="https://img.shields.io/badge/Portfolio-mercpl.us-000?style=flat&logo=googlechrome&logoColor=white" alt="Website"></a>
 
 *I design, ship, and scale production‑grade AI agent platforms that power autonomous workflows and decision‑making for enterprise customers.*
 
@@ -26,13 +26,13 @@ Previously, as the **Chief Sales Engineering & Solutions Officer at Kore.ai**, I
 
 ### 💻 Core Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-02569B?style=flat-square&logo=langchain&logoColor=white)
-![AutoGen](https://img.shields.io/badge/-AutoGen-00599C?style=flat-square&logo=microsoft&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/-LangGraph-02569B?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph">
+<img src="https://img.shields.io/badge/-AutoGen-00599C?style=flat-square&logo=microsoft&logoColor=white" alt="AutoGen">
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
 
 ---
 
@@ -40,7 +40,7 @@ Previously, as the **Chief Sales Engineering & Solutions Officer at Kore.ai**, I
 
 🗣️ **Open to:** Consulting, speaking engagements, enterprise AI partnerships, and mentorship.
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/aayushmediratta) or drop me an [Email](mailto:aayush@mercpl.us).
+Feel free to reach out via <a href="https://www.linkedin.com/in/aayushmediratta" target="_blank">LinkedIn</a> or drop me an <a href="mailto:aayush@mercpl.us">Email</a>.
 
 <p align="center">
   <small>© 2026 Aayush Mediratta. All rights reserved.</small>
