@@ -71,9 +71,9 @@ Previously, as **Chief Sales Engineering & Solutions Officer / AI Advisor at Kor
 
 </div>
 
-| Most Used Languages | Coding Activity |
+| Most Used Languages | Recent Activity |
 |:---:|:---:|
-| <img src="./metrics.svg" alt="Most used languages" width="400"> | <img src="./metrics-habits.svg" alt="Coding activity" width="400"> |
+| <img src="./metrics.svg" alt="Most used languages" width="400"> | <img src="./metrics-activity.svg" alt="Recent activity" width="400"> |
 
 <br>
 
