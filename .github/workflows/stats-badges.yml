@@ -1,8 +1,8 @@
 name: Update Stat Badges
 on:
-  # Refresh daily, staggered after the metrics workflow to avoid push races
+  # Refresh weekly (Mondays), staggered after the metrics workflow to avoid push races
   schedule:
-    - cron: "30 6 * * *"
+    - cron: "30 6 * * 1"
   workflow_dispatch:
 
 permissions:
@@ -12,7 +12,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Compute live stats and update README badges
         env:
