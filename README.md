@@ -29,24 +29,15 @@ Previously, as **Chief Sales Engineering & Solutions Officer / AI Advisor at Kor
 
 ## Impact
 
-<div align="center">
-
-```
- $110M+ ARR          99%+ Accuracy        ~90% Automation       2 → 55+ Team
- ───────────         ──────────────       ─────────────────     ──────────────
- Scaled global       Eval-driven          Invoice agent         Built global AI
- AI GTM org          GenAI/Agentic        automating manual     solutions org
- to $110M ARR        platforms            matching/exceptions   from scratch
-```
-
-```
- ~40% Faster Search       ~40% Higher Win Rate       30+ Executive Engagements
- ──────────────────       ────────────────────       ──────────────────────────
- Semantic search agents   Standardized presales      AI advisory, roadmaps,
- across enterprise silos  discovery → PoC → RFx      governance & ROI frameworks
-```
-
-</div>
+| Metric | Highlight |
+|:--|:--|
+| **$110M+ ARR** | Scaled the global AI GTM organization to $110M ARR |
+| **99%+ Accuracy** | Eval-driven delivery of GenAI / Agentic platforms |
+| **~90% Automation** | Invoice reconciliation agent — manual matching & exceptions |
+| **2 → 55+ Team** | Built the global AI solutions / architecture org from scratch |
+| **~40% Faster Retrieval** | Enterprise semantic search across siloed systems |
+| **~40% Higher Win Rate** | Standardized presales: discovery → architecture → PoC → RFx |
+| **30+ Engagements** | Executive AI advisory — roadmaps, governance, ROI frameworks |
 
 <br>
 
@@ -105,7 +96,7 @@ Previously, as **Chief Sales Engineering & Solutions Officer / AI Advisor at Kor
 
 ## Advisory & Thought Leadership
 
-- **Author of [Mercpl.us](https://mercpl.us)** — agentic AI architecture, procurement automation, and enterprise deployment strategies.
+- **Author, [mercpl.us](https://mercpl.us)** — technical deep-dives on agentic architecture, eval-driven development, and production cost-to-serve.
 - **Former Strategic Advisor, Bolosign** — GenAI/agentic AI architecture for SaaS workflow automation; U.S. GTM expansion.
 - **Member, AI Circle** (Expert Tier)
 - Co-authored Responsible AI operating model blueprints — oversight (HITL), governance, and safe enterprise rollout.
