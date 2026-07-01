@@ -52,39 +52,11 @@ Previously, as **Chief Sales Engineering & Solutions Officer / AI Advisor at Kor
 
 ## Tech Stack
 
-<div align="center">
-
-**Languages & Frameworks**
-
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/-SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="SvelteKit">
-<img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
-
-**AI / ML**
-
-<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
-<img src="https://img.shields.io/badge/-LangGraph-02569B?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph">
-<img src="https://img.shields.io/badge/-LangFlow-3B82F6?style=flat-square&logo=langchain&logoColor=white" alt="LangFlow">
-<img src="https://img.shields.io/badge/-Langfuse-000000?style=flat-square" alt="Langfuse">
-<img src="https://img.shields.io/badge/-AutoGen-00599C?style=flat-square&logo=microsoft&logoColor=white" alt="AutoGen">
-<img src="https://img.shields.io/badge/-CrewAI-FF6B35?style=flat-square" alt="CrewAI">
-<img src="https://img.shields.io/badge/-Pydantic--AI-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic-AI">
-<img src="https://img.shields.io/badge/-RAG%20Pipelines-333333?style=flat-square" alt="RAG">
-<img src="https://img.shields.io/badge/-MCP-D97706?style=flat-square" alt="MCP">
-<img src="https://img.shields.io/badge/-LLMOps-333333?style=flat-square" alt="LLMOps">
-
-**Cloud & Data**
-
-<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
-<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud">
-<img src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
-<img src="https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake">
-<img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks">
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-
-</div>
+| | |
+|:--|:--|
+| **Languages & Frameworks** | <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/-SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="SvelteKit"> <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"> |
+| **AI / ML** | <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"> <img src="https://img.shields.io/badge/-LangGraph-02569B?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"> <img src="https://img.shields.io/badge/-LangFlow-3B82F6?style=flat-square&logo=langchain&logoColor=white" alt="LangFlow"> <img src="https://img.shields.io/badge/-Langfuse-000000?style=flat-square" alt="Langfuse"> <img src="https://img.shields.io/badge/-AutoGen-00599C?style=flat-square&logo=microsoft&logoColor=white" alt="AutoGen"> <img src="https://img.shields.io/badge/-CrewAI-FF6B35?style=flat-square" alt="CrewAI"> <img src="https://img.shields.io/badge/-Pydantic--AI-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic-AI"> <img src="https://img.shields.io/badge/-RAG%20Pipelines-333333?style=flat-square" alt="RAG"> <img src="https://img.shields.io/badge/-MCP-D97706?style=flat-square" alt="MCP"> <img src="https://img.shields.io/badge/-LLMOps-333333?style=flat-square" alt="LLMOps"> |
+| **Cloud & Data** | <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"> <img src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"> <img src="https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake"> <img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"> <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"> |
 
 <br>
 
@@ -96,6 +68,10 @@ Previously, as **Chief Sales Engineering & Solutions Officer / AI Advisor at Kor
 <img src="https://img.shields.io/badge/Pull%20Requests-70%2B-8250DF?style=for-the-badge&logo=github&logoColor=white" alt="Pull Requests">
 <img src="https://img.shields.io/badge/Public%20Repos-7-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos">
 <img src="https://img.shields.io/badge/Building%20Since-2011-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Building Since 2011">
+
+<br><br>
+
+<img src="./metrics.svg" alt="Most used languages" width="480">
 
 </div>
 
