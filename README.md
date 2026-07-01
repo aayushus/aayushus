@@ -92,6 +92,10 @@ Previously, as **Chief Sales Engineering & Solutions Officer / AI Advisor at Kor
 
 <div align="center">
 
+<img src="https://ghchart.rshah.org/aayushus" alt="Contribution Calendar" width="820">
+
+<br><br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aayushus&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000">
   <img src="https://github-readme-stats.vercel.app/api?username=aayushus&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
@@ -109,21 +113,6 @@ Previously, as **Chief Sales Engineering & Solutions Officer / AI Advisor at Kor
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushus&theme=default&hide_border=true" alt="GitHub Streak" width="520">
 </picture>
 
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aayushus&theme=github-dark&hide_border=true&bg_color=00000000&color=c9d1d9&line=58a6ff&point=f0f6fc">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayushus&theme=github-light&hide_border=true" alt="Contribution Graph" width="820">
-</picture>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=aayushus&theme=flat&no-frame=true&column=6&margin-w=8" alt="Trophies" width="700">
-
-<br><br>
-
-<img src="https://ghchart.rshah.org/aayushus" alt="Contribution Calendar" width="820">
-
 </div>
 
 <br>
@@ -134,9 +123,9 @@ Previously, as **Chief Sales Engineering & Solutions Officer / AI Advisor at Kor
 |---|---|---|
 | **[ContractsPulse](https://github.com/aayushus/ContractsPulse)** | AI contract intelligence platform — legal-grade risk analysis and plain-English clause warnings | SvelteKit, FastAPI, Pydantic-AI |
 | **[ReceiptMux](https://github.com/aayushus/ReceiptMux)** | Android receipt scanner — auto-capture, OCR-rename, and upload to FTP/FTPS/SMB with queueing and retries | Kotlin |
-| **[AtlasX](https://github.com/aayushus/atlasx)** | macOS menu bar utility that keeps your display awake — one click, no fuss | macOS native |
 | **[Skills](https://github.com/aayushus/skills)** | Development guidelines, AI IDE configs (Windsurf/Claude Code), B2B design system, and Solo AI SOP | — |
-| **[mercpl.us](https://github.com/aayushus/aayushus.github.io)** | Portfolio and blog on agentic AI architecture, procurement automation, and deployment strategies | HTML/CSS |
+| **[mercpl.us](https://mercpl.us)** | Portfolio and blog on agentic AI architecture, procurement automation, and enterprise deployment strategies | Live site |
+| **[aayushus.github.io](https://github.com/aayushus/aayushus.github.io)** | Source repository powering the mercpl.us portfolio site | HTML/CSS |
 
 <br>
 
