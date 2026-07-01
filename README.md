@@ -96,22 +96,7 @@ Previously, as **Chief Sales Engineering & Solutions Officer / AI Advisor at Kor
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aayushus&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayushus&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushus&layout=donut&langs_count=8&theme=github_dark&hide_border=true&bg_color=00000000">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushus&layout=donut&langs_count=8&theme=default&hide_border=true" alt="Top Languages" height="170">
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=aayushus&theme=github-dark-blue&hide_border=true&background=00000000">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushus&theme=default&hide_border=true" alt="GitHub Streak" width="520">
-</picture>
+<img src="./metrics.svg" alt="GitHub Metrics" width="820">
 
 </div>
 
