@@ -13,7 +13,6 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      # Card 1 — most-used languages
       - name: Languages card
         uses: lowlighter/metrics@latest
         with:
@@ -31,17 +30,3 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_colors: github
-
-      # Card 2 — recent activity timeline
-      - name: Activity card
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics-activity.svg
-          template: classic
-          config_timezone: America/New_York
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 90
-          plugin_activity_filter: all
