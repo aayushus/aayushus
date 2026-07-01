@@ -13,7 +13,8 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate metrics
+      # Card 1 — most-used languages
+      - name: Languages card
         uses: lowlighter/metrics@latest
         with:
           # Personal Access Token (classic) with `repo` + `read:user` scopes,
@@ -23,14 +24,25 @@ jobs:
           filename: metrics.svg
           template: classic
           config_timezone: America/New_York
-
-          # Languages-only card — no base sections, so none of the
-          # zero-value rows (0 issues, 0 packages, 0 forkers) appear.
+          # No base sections, so none of the zero-value rows appear.
           base: ""
-
-          # Live language breakdown, refreshed daily
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_colors: github
+
+      # Card 2 — coding activity (when/how I commit)
+      - name: Habits card
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics-habits.svg
+          template: classic
+          config_timezone: America/New_York
+          base: ""
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 7
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
