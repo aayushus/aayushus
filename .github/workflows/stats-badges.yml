@@ -2,7 +2,7 @@ name: Update Stat Badges
 on:
   # Refresh weekly (Mondays), staggered after the metrics workflow to avoid push races
   schedule:
-    - cron: "30 6 * * 1"
+    - cron: "42 9 * * 1"
   workflow_dispatch:
 
 permissions:

@@ -1,8 +1,8 @@
 name: GitHub Metrics
 on:
-  # Refresh weekly (Mondays) so stats stay current
+  # Refresh weekly (Mondays, off-peak UTC / odd minute to avoid the top-of-hour queue)
   schedule:
-    - cron: "0 6 * * 1"
+    - cron: "17 9 * * 1"
   # Run on demand from the Actions tab (use this after adding METRICS_TOKEN)
   workflow_dispatch:
 
