@@ -55,9 +55,9 @@ Previously, as **Chief Sales Engineering & Solutions Officer / AI Advisor at Kor
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Commits-200%2B-2EA44F?style=for-the-badge&logo=git&logoColor=white" alt="Commits">
-<img src="https://img.shields.io/badge/Pull%20Requests-70%2B-8250DF?style=for-the-badge&logo=github&logoColor=white" alt="Pull Requests">
-<img src="https://img.shields.io/badge/Public%20Repos-7-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos">
+<img src="https://img.shields.io/badge/Commits-210%2B-2EA44F?style=for-the-badge&logo=git&logoColor=white" alt="Commits">
+<img src="https://img.shields.io/badge/Pull%20Requests-115%2B-8250DF?style=for-the-badge&logo=github&logoColor=white" alt="Pull Requests">
+<img src="https://img.shields.io/badge/Public%20Repos-8-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos">
 <img src="https://img.shields.io/badge/Building%20Since-2011-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Building Since 2011">
 
 <br><br>
