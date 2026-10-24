@@ -31,8 +31,8 @@ Previously, as **Chief Sales Engineering & Solutions Officer / AI Advisor at Kor
 
 | Metric | Highlight |
 |:--|:--|
-| **$110M+ ARR** | Scaled the global AI GTM organization to $110M ARR |
-| **99%+ Accuracy** | Eval-driven delivery of GenAI / Agentic platforms |
+| **$100M+** | AI transformation bookings — scaled the global AI GTM organization across Fortune 500 organizations |
+| **99%+ Accuracy** | Eval-driven delivery of GenAI / Agentic platforms, measured against internal test benchmarks |
 | **~90% Automation** | Invoice reconciliation agent — manual matching & exceptions |
 | **2 → 55+ Team** | Built the global AI solutions / architecture org from scratch |
 | **~40% Faster Retrieval** | Enterprise semantic search across siloed systems |
@@ -106,7 +106,7 @@ Previously, as **Chief Sales Engineering & Solutions Officer / AI Advisor at Kor
 
 ## Connect
 
-Open to consulting, speaking engagements, enterprise AI partnerships, and mentorship.
+Open to consulting, speaking engagements, enterprise AI partnerships, and mentorship — reach me at aayush@mercpl.us.
 
 <a href="https://www.linkedin.com/in/aayushmediratta" target="_blank">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:aayush@mercpl.us">Email</a> &nbsp;·&nbsp; <a href="https://mercpl.us" target="_blank">mercpl.us</a>
 
